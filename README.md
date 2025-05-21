@@ -10,3 +10,6 @@
   * Fix logic workflow, Handling stop process, update compiler
 * 2025-02-26 -- 1.0.6
   * Reset state stop
+* 2025-05-21 -- 1.1.6
+  * Update Random API Key & Image Flow
+
