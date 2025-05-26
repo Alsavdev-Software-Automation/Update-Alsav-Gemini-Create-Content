@@ -12,4 +12,6 @@
   * Reset state stop
 * 2025-05-21 -- 1.1.6
   * Update Random API Key & Image Flow
+* 2025-05-26 -- 1.1.7
+  * Update Selector Filter Unsplash
 
