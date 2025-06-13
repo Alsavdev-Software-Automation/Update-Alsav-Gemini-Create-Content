@@ -14,4 +14,5 @@
   * Update Random API Key & Image Flow
 * 2025-05-26 -- 1.1.7
   * Update Selector Filter Unsplash
-
+* 2025-06-13 -- 1.1.8
+  * Update Selector Unsplash
