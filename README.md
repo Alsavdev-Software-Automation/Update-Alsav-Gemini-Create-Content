@@ -16,3 +16,9 @@
   * Update Selector Filter Unsplash
 * 2025-06-13 -- 1.1.8
   * Update Selector Unsplash
+* 2025-08-17 -- 2.0.0
+  * Update TON at 2.0 ver
+  * New UI
+  * New System
+  * New Feature
+  * Separate Feature
