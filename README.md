@@ -22,3 +22,5 @@
   * New System
   * New Feature
   * Separate Feature
+* 2025-08-19 -- 2.0.1
+  * Update Dynamic URL
