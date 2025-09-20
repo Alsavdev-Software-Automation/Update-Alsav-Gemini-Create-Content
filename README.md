@@ -26,3 +26,6 @@
   * Update Dynamic URL
 * 2025-08-28 -- 2.0.3
   * Rewrite released and fix some bugs
+* 2025-09-20 -- 2.0.6
+  * Change flow API consume
+  * Improve Feedback UI
