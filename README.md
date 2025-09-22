@@ -29,3 +29,7 @@
 * 2025-09-20 -- 2.0.6
   * Change flow API consume
   * Improve Feedback UI
+* 2025-09-22 -- 2.0.7
+  * Implement stop functionality for feature generate only
+  * Validate each input file
+
