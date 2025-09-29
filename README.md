@@ -32,4 +32,6 @@
 * 2025-09-22 -- 2.0.7
   * Implement stop functionality for feature generate only
   * Validate each input file
+* 2025-09-29 -- 2.0.8
+  * Move to trash feature
 
