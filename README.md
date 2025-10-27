@@ -34,4 +34,6 @@
   * Validate each input file
 * 2025-09-29 -- 2.0.8
   * Move to trash feature
-
+* 2025-10-27 -- 2.1.0
+  * Hide MainWindow
+  * Upload Google Docs Online feature
