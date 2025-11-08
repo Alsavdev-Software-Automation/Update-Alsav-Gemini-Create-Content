@@ -37,3 +37,5 @@
 * 2025-10-27 -- 2.1.0
   * Hide MainWindow
   * Upload Google Docs Online feature
+* 2025-11-08 -- 2.1.1
+  * Regenerate only meta or tag
