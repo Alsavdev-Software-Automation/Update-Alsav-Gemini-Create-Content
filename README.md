@@ -39,3 +39,6 @@
   * Upload Google Docs Online feature
 * 2025-11-08 -- 2.1.1
   * Regenerate only meta or tag
+* 2025-11-11 -- 2.1.2
+  * Fix uploadGoogleDocs feature
+  * Update Regex replace urls
