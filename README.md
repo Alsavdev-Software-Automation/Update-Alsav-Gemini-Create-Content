@@ -42,3 +42,6 @@
 * 2025-11-11 -- 2.1.2
   * Fix uploadGoogleDocs feature
   * Update Regex replace urls
+* 2025-14-11 -- 2.1.6
+  * [Permanent] Remove capture process feature
+  * Update model paste meta, tags, and input article content
