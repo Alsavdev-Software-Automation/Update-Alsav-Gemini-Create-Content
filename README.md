@@ -48,3 +48,8 @@
 * 2025-11-24 -- 2.1.7
   * Upgrade model feature generate title
   * Update prompt
+* 2025-11-28 -- 2.1.8
+  * Update prompt
+  * Filter sensitive word
+  * Overview and & FIFU options
+  * Update flow titles, keyword
