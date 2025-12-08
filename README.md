@@ -53,3 +53,7 @@
   * Filter sensitive word
   * Overview and & FIFU options
   * Update flow titles, keyword
+* 2025-12-08 -- 2.1.9
+  * Model Gemini
+  * Upgrade Package
+
