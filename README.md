@@ -56,4 +56,6 @@
 * 2025-12-08 -- 2.1.9
   * Update Model Gemini
   * Upgrade Package
+* 2026-01-12 -- 2.2.0
+  * Update selector unsplash
 
