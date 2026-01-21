@@ -58,4 +58,6 @@
   * Upgrade Package
 * 2026-01-12 -- 2.2.0
   * Update selector unsplash
+* 2026-01-21 -- 2.2.1
+  * Prevent block open aiseso page
 
