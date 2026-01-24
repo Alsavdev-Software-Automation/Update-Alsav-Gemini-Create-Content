@@ -60,4 +60,6 @@
   * Update selector unsplash
 * 2026-01-21 -- 2.2.1
   * Prevent block open aiseso page
-
+* 2026-01-24 -- 2.2.2
+  * Separate SEO Plugin
+  * Adding YOAST Feature
