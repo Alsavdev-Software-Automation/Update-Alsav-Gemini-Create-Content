@@ -63,7 +63,11 @@
 * 2026-01-24 -- 2.2.2
   * Separate SEO Plugin
   * Adding YOAST Feature
-* 2026-08-26 -- 2.2.3
+* 2026-02-08 -- 2.2.3
   * Fix Yoast Feature
   * Publish by link docs feature[new]
   * Fix Generate only feature
+* 2026-02-08 -- 2.2.4
+  * Fix Handling Seo Plugin
+  * Adding Checker Seo Plugin
+  * Fix handling fatal error
