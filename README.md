@@ -71,3 +71,7 @@
   * Fix Handling Seo Plugin
   * Adding Checker Seo Plugin
   * Fix handling fatal error
+ * 2026-02-13 -- 2.2.8
+  * GrabContent by link docs[new]
+  * Refactor publishContent feature
+  * Update schema data publishContent
