@@ -75,3 +75,5 @@
   * GrabContent by link docs[new]
   * Refactor publishContent feature
   * Update schema data publishContent
+* 2026-02-13 -- 2.2.9
+  * Adding CyberGhost VPN with option
