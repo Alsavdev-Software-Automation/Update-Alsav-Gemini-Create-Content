@@ -77,3 +77,5 @@
   * Update schema data publishContent
 * 2026-02-13 -- 2.2.9
   * Adding CyberGhost VPN with option
+* 2026-02-17 -- 2.3.0
+  * Improvment model extractMeta by anchor
