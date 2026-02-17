@@ -79,3 +79,6 @@
   * Adding CyberGhost VPN with option
 * 2026-02-17 -- 2.3.0
   * Improvment model extractMeta by anchor
+* 2026-02-17 -- 2.3.2
+  * Adding 2 option host image in grab content feature
+  * Improve chekcing critical method on publishContent
