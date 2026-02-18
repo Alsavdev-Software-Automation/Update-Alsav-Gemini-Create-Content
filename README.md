@@ -84,3 +84,4 @@
   * Improve chekcing critical method on publishContent
 * 2026-02-18 -- 2.3.3
   * Adding option for goto new post
+  * Adding check confirmation email after login
