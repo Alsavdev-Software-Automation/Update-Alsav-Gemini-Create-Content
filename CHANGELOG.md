@@ -88,5 +88,8 @@
   * Adding check confirmation email after login
   * Improve navigation function login
 * 2026-02-20 -- 2.3.6
-  * improve category selection logic
-  * refactor publish metode, verify existance content and get hyperlink method
+  * Improve category selection logic
+  * Refactor publish metode, verify existance content and get hyperlink method
+* 2026-02-23 -- 2.3.7
+  * Fix bug path extension
+  * Enhance post content verification, and improve error handling
