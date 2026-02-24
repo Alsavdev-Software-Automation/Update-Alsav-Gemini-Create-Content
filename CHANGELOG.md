@@ -93,3 +93,5 @@
 * 2026-02-23 -- 2.3.7
   * Fix bug path extension
   * Enhance post content verification, and improve error handling
+* 2026-02-24 -- 2.3.8
+  * Update log information
