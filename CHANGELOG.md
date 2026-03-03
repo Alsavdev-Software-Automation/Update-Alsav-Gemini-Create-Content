@@ -95,3 +95,6 @@
   * Enhance post content verification, and improve error handling
 * 2026-02-24 -- 2.3.8
   * Update log information
+* 2026-03-03 -- 2.3.9
+  * Adding retries to login flow
+  * Adding anticipation to draft post
