@@ -98,3 +98,7 @@
 * 2026-03-03 -- 2.3.9
   * Adding retries to login flow
   * Adding anticipation to draft post
+* 2026-03-14 -- 2.4.1
+  * Adding schedule feature with range date
+  * Fix bug auto sort at result export
+  * Adding batch retries for final try
