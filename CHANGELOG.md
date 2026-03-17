@@ -102,5 +102,7 @@
   * Adding schedule feature with range date
   * Fix bug auto sort at result export
   * Adding batch retries for final try
-* 2026-03-17 -- 2.4.2
+* 2026-03-17 -- 2.4.3
   * Adjust timeout at detect failed login
+  * Upgrade Logic set content
+  * Fix logic login environment (check critical,confirmation email)
