@@ -106,3 +106,5 @@
   * Adjust timeout at detect failed login
   * Upgrade Logic set content
   * Fix logic login environment (check critical,confirmation email)
+ * 2026-04-04 -- 2.4.4
+  * Update extractor title [GrabContent]
