@@ -109,5 +109,5 @@
 * 2026-04-04 -- 2.4.4
   * Update extractor title [GrabContent]
 * 2026-04-10 -- 2.4.5
-  * Feature solveCaptcha
+  * Captcha solver built in
   * Enchaned error handling Generating content
