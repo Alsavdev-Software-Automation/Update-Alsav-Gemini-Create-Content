@@ -111,3 +111,7 @@
 * 2026-04-10 -- 2.4.5
   * Captcha solver built in
   * Enchaned error handling Generating content
+* 2026-04-16 -- 2.4.6
+  * improve logging and API key usage in generateContentOnly feature
+  * Enhance link injection in docxAdapter
+  * Refine captcha handling in solveCaptcha
