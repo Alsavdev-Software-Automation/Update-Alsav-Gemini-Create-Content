@@ -115,3 +115,6 @@
   * improve logging and API key usage in generateContentOnly feature
   * Enhance link injection in docxAdapter
   * Refine captcha handling in solveCaptcha
+* 2026-04-23 -- 2.4.7
+  * Improve getDataContent grabTitle Feature
+  * Remove noise from content (PublishContent Feature)
