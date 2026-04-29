@@ -118,3 +118,5 @@
 * 2026-04-23 -- 2.4.7
   * Improve getDataContent grabTitle Feature
   * Remove noise from content (PublishContent Feature)
+* 2026-04-29 -- 2.4.8
+  * Integrate 2Captcha & VPN
