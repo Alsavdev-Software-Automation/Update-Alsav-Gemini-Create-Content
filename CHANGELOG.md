@@ -120,3 +120,5 @@
   * Remove noise from content (PublishContent Feature)
 * 2026-04-29 -- 2.4.8
   * Integrate 2Captcha & VPN
+* 2026-05-09 -- 2.4.9
+  * Add Verification for content generatContentOnly feature
