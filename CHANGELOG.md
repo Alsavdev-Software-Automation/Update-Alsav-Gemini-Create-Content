@@ -122,3 +122,5 @@
   * Integrate 2Captcha & VPN
 * 2026-05-09 -- 2.4.9
   * Add Verification for content generatContentOnly feature
+* 2026-05-14 -- 2.5.0
+  * Improve handling error page
