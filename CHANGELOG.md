@@ -124,3 +124,5 @@
   * Add Verification for content generatContentOnly feature
 * 2026-05-14 -- 2.5.0
   * Improve handling error page
+* 2026-05-15 -- 2.5.1
+  * Improve verification post using cache
