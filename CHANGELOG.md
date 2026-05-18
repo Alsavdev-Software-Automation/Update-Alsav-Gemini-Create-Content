@@ -126,3 +126,5 @@
   * Improve handling error page
 * 2026-05-15 -- 2.5.1
   * Improve verification post using cache
+* 2026-05-18 -- 2.5.2
+  * Fix mismatch object source link of report 
