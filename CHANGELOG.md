@@ -130,3 +130,5 @@
   * Fix mismatch object source link of report
 * 2026-05-19 -- 2.5.3
   * Enhance error logging and verification process in WordPressService
+* 2026-06-29 -- 2.5.4
+  * Shuffle apikey to all features, makes random choose to apikey
