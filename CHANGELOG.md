@@ -132,3 +132,6 @@
   * Enhance error logging and verification process in WordPressService
 * 2026-06-29 -- 2.5.4
   * Shuffle apikey to all features, makes random choose to apikey
+* 2026-07-02 -- 2.5.5
+  * Remove apikey when limit
+  * Fix bug file repor content only not generated
