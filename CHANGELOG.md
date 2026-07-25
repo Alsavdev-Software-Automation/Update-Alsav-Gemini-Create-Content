@@ -135,3 +135,6 @@
 * 2026-07-02 -- 2.5.5
   * Remove apikey when limit
   * Fix bug file repor content only not generated
+* 2026-07-25 -- 2.5.6
+  * Task Concept for generateContentOnly Feature (beta)
+  * Add GetImage Feature to generateContentOnly Feature + Insert into document
