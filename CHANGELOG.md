@@ -138,3 +138,6 @@
 * 2026-07-25 -- 2.5.6
   * Task Concept for generateContentOnly Feature (beta)
   * Add GetImage Feature to generateContentOnly Feature + Insert into document
+* 2026-08-06 -- 2.5.7
+  * [Fixing] Task Concept on generateContentOnly Feature
+  * Update language & Target Country from country Portugal
