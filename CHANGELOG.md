@@ -141,3 +141,6 @@
 * 2026-08-06 -- 2.5.7
   * [Fixing] Task Concept on generateContentOnly Feature
   * Update language & Target Country from country Portugal
+* 2026-08-10 -- 2.5.8
+  * Captcha solver after goto wp-admin
+  * Adjust some ui & Export file name
