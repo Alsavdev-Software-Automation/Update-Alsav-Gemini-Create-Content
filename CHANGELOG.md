@@ -144,3 +144,5 @@
 * 2026-08-10 -- 2.5.8
   * Captcha solver after goto wp-admin
   * Adjust some ui & Export file name
+* 2026-08-20 -- 2.6.0
+  * Fix bug solverCaptcha
