@@ -146,3 +146,7 @@
   * Adjust some ui & Export file name
 * 2026-08-20 -- 2.6.0
   * Fix bug solverCaptcha
+* 2026-08-21 -- 2.6.1
+  * Strict by domain verify publish post
+  * Improve useWordFiles source to search files by name file ekifalen with source files
+  * Rollback solverCaptcha
