@@ -150,3 +150,6 @@
   * Strict by domain verify publish post
   * Improve useWordFiles source to search files by name file ekifalen with source files
   * Rollback solverCaptcha
+* 2026-08-22 -- 2.6.2
+  * PublishContent support wordFiles some bug fixes
+  * GrabContent support wordFiles 
