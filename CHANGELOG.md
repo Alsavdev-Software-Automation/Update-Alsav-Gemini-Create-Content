@@ -152,4 +152,10 @@
   * Rollback solverCaptcha
 * 2026-08-22 -- 2.6.2
   * PublishContent support wordFiles some bug fixes
-  * GrabContent support wordFiles 
+  * GrabContent support wordFiles
+* 2026-08-28 -- 2.6.3
+  * Enhanced CAPTCHA System: Added 3x auto-retry, improved Buster accuracy, and seamless 2Captcha API fallback.
+  * Media Processing: Added Base64 & docx image upload for Featured Image (FIFU) and improved first-image removal.
+  * Excel Reports: Fixed Post ID mapping and adjusted columns for Word Files mode.
+  * Verification: Enhanced article content verification with HTML entity & smart quote normalization.
+  * General UI & performance optimizations.
