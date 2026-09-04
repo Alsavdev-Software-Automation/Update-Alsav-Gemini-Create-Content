@@ -3,6 +3,13 @@
 ## Stable Builds
 
 <details open>
+<summary><strong>2.6.5 — 2026-09-04</strong></summary>
+
+* **GenerateContentOnly:** Fix bug title, and plain prompt at result content.
+
+</details>
+
+<details open>
 <summary><strong>2.6.3 — 2026-08-28</strong></summary>
 
 * **CAPTCHA:** Added 3× automatic retry, improved Buster accuracy, and seamless 2Captcha API fallback.
