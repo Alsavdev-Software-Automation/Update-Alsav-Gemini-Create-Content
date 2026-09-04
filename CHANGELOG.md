@@ -9,7 +9,7 @@
 
 </details>
 
-<details open>
+<details>
 <summary><strong>2.6.3 — 2026-08-28</strong></summary>
 
 * **CAPTCHA:** Added 3× automatic retry, improved Buster accuracy, and seamless 2Captcha API fallback.
