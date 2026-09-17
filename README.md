@@ -3,7 +3,7 @@
 This repository contains production builds only.
 
 ## Latest Version
-v2.6.5
+v2.6.6
 
 Download from Releases page.
 
