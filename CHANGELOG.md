@@ -3,6 +3,14 @@
 ## Stable Builds
 
 <details open>
+<summary><strong>2.6.6 — 2026-09-17</strong></summary>
+
+* **GenerateContentOnly:** fix prevent crash when editing/saving task 9 and guard storage I/O.
+* **PublishContent:** fix sanitize preview URLs into canonical post ID and prevent draft reload links.
+  
+</details>
+
+<details>
 <summary><strong>2.6.5 — 2026-09-04</strong></summary>
 
 * **GenerateContentOnly:** Fix bug title, and plain prompt at result content.
