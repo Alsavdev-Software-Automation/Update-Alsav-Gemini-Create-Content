@@ -3,6 +3,13 @@
 ## Stable Builds
 
 <details open>
+<summary><strong>2.6.7 — 2026-09-22</strong></summary>
+
+* **GenerateContentOnly:** editable card of task.
+  
+</details>
+
+<details>
 <summary><strong>2.6.6 — 2026-09-17</strong></summary>
 
 * **GenerateContentOnly:** fix prevent crash when editing/saving task 9 and guard storage I/O.
