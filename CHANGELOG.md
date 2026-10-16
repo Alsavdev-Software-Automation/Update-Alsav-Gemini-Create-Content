@@ -3,6 +3,13 @@
 ## Stable Builds
 
 <details open>
+<summary><strong>2.6.9 — 2026-10-16</strong></summary>
+
+* **GenerateContentOnly:** add per-title link file support.
+  
+</details>
+
+<details>
 <summary><strong>2.6.8 — 2026-10-9</strong></summary>
 
 * **GenerateContentPostToDraft:** update selector FIFU.
