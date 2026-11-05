@@ -3,6 +3,13 @@
 ## Stable Builds
 
 <details open>
+<summary><strong>2.7.1 — 2026-11-06</strong></summary>
+
+* **PublishContent:** support draft mode
+  
+</details>
+
+<details>
 <summary><strong>2.6.9 — 2026-10-16</strong></summary>
 
 * **GenerateContentOnly:** add per-title link file support.
